@@ -7,7 +7,6 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
 ### Citation
 
 ```
-​```
 @misc{li2020exploiting,
       title={Exploiting Learnable Joint Groups for Hand Pose Estimation}, 
       author={Moran Li and Yuan Gao and Nong Sang},
@@ -16,7 +15,6 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-​```
 ```
 
 ### Notes
