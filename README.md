@@ -1,4 +1,4 @@
-# Hand_Joints_Grouping
+# LearnableGroups-Hand
 
 The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimation** (Accepted by AAAI2021).
 
