@@ -17,7 +17,7 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
 
 - RHD:  you can obtain this dataset via [hand3d](https://github.com/lmb-freiburg/hand3d).
 <p align="middle">
-    <img src="https://github.com/moranli-aca/LearnableGroups-Hand/blob/main/assets/overall_network.pdf", width="780">
+    <img src="https://github.com/moranli-aca/LearnableGroups-Hand/blob/main/assets/RHD_qualitative_1.pdf", width="780">
 </p>
 
 -  FHD:  you can obtain this dataset following this instruction [FreiHand](https://lmb.informatik.uni-freiburg.de/projects/freihand/) .
