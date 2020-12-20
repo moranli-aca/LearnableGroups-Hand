@@ -4,8 +4,8 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
 
 [Paper](https://arxiv.org/abs/2012.09496)
 
-### Citation
 
+### Reference
 ```
 @misc{li2020exploiting,
       title={Exploiting Learnable Joint Groups for Hand Pose Estimation}, 
@@ -17,8 +17,17 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
 }
 ```
 
-### Notes
+### Usage 
+The code is built on Python3 and Pytorch 1.6.0.
 
-- *The code is under testing, will be done soon.*
+#### Install dependencies 
+```bash
+pip install -r requirements.txt
+```
+#### Run the code 
+- evaluate on the RHD: 
+```bash
+python eval_RHD.py --data_dir 'your RHD_published_v2 dataset path'
+```
 
   
