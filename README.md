@@ -17,18 +17,18 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
 
 - RHD:  you can obtain this dataset via [hand3d](https://github.com/lmb-freiburg/hand3d).
 <p align="middle">
-    <img src="https://github.com/moranli-aca/LearnableGroups-Hand/blob/main/assets/RHD_qualitative_1.pdf", width="780">
+    <img src="assets/overall_network.png", width="780">
 </p>
 
 -  FHD:  you can obtain this dataset following this instruction [FreiHand](https://lmb.informatik.uni-freiburg.de/projects/freihand/) .
 <p align="middle">
-    <img src="assets/FHD_qualitative_1.pdf", width="780">
+    <img src="assets/FHD_qualitative_1.png", width="780">
 </p>
 
 
 - STB:  you can obtain this dataset via [STB](https://github.com/zhjwustc/icip17_stereo_hand_pose_dataset) .
 <p align="middle">
-    <img src="assets/STB_qualitative_1.pdf", width="780">
+    <img src="assets/STB_qualitative_1.png", width="780">
 </p>
 
 ### Citing LearnableGroups-Hand
