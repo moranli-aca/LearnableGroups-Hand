@@ -1,0 +1,33 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.mp4
+*.mov
+*.bak
+*.zip
+*.rar
+*.tar
+*.eps
+*.svg
+*.ex
+*.a
+*.so
+
+*.caffemodel
+*_landmarks.txt
+*_eyelids.txt
+*_edges.txt
+*list.txt
+.idea/
+*.so
