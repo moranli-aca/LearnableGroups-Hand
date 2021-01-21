@@ -56,7 +56,8 @@ pip install -r requirements.txt
 ```bash
 python eval_RHD.py --data_dir 'your RHD_published_v2 dataset path'
 ```
-
+#### Plot AUC curve on RHD/STB/DO
+- obtain AUC curve for comparison with other SOTA methods (as shown in Fig.3 in main paper). 
 
 
 
