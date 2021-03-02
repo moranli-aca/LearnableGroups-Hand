@@ -56,11 +56,12 @@ pip install -r requirements.txt
 ```bash
 python eval_RHD.py --data_dir 'your RHD_published_v2 dataset path'
 ```
-#### Plot AUC curve on RHD/STB/DO
-- obtain AUC curve for comparison with other SOTA methods (as shown in Fig.3 in main paper). 
-<p align="middle">
-    <img src="assets/overall_auc.png", width="780">
-</p>
+#### Comparison with SOTA methods
+- Plot AUC curve on RHD/STB/DO
+    - obtain AUC curve for comparison with other SOTA methods (as shown in Fig.3 in main paper). 
+    <p align="middle">
+        <img src="assets/overall_auc.png", width="780">
+    </p>
 
 - Ours User Name on the [FreiHand CodaLab website](https://competitions.codalab.org/competitions/21238#results) is 'anonymous15'
 
