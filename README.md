@@ -62,5 +62,6 @@ python eval_RHD.py --data_dir 'your RHD_published_v2 dataset path'
     <img src="assets/overall_auc.png", width="780">
 </p>
 
+- Ours User Name on the [FreiHand CodaLab website](https://competitions.codalab.org/competitions/21238#results) is 'anonymous15'
 
 
