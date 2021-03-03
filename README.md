@@ -34,13 +34,11 @@ The code for the paper **Exploiting Learnable Joint Groups for Hand Pose Estimat
 ### Citing LearnableGroups-Hand
 If this repository is helpful to your research, please cite the [paper](https://arxiv.org/abs/2012.09496):
 ```
-@misc{li2020exploiting,
+@inproceedings{li2020exploiting,
       title={Exploiting Learnable Joint Groups for Hand Pose Estimation}, 
       author={Moran Li and Yuan Gao and Nong Sang},
-      year={2020},
-      eprint={2012.09496},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      year={2021},
+      booktitle={AAAI}
 }
 ```
 
